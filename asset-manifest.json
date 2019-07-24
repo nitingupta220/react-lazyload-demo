@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-lazyload-demo/static/css/main.72acd6e2.chunk.css",
+    "main.js": "/react-lazyload-demo/static/js/main.a97d3059.chunk.js",
+    "main.js.map": "/react-lazyload-demo/static/js/main.a97d3059.chunk.js.map",
+    "runtime~main.js": "/react-lazyload-demo/static/js/runtime~main.faaffc7f.js",
+    "runtime~main.js.map": "/react-lazyload-demo/static/js/runtime~main.faaffc7f.js.map",
+    "static/js/2.621dc3b6.chunk.js": "/react-lazyload-demo/static/js/2.621dc3b6.chunk.js",
+    "static/js/2.621dc3b6.chunk.js.map": "/react-lazyload-demo/static/js/2.621dc3b6.chunk.js.map",
+    "index.html": "/react-lazyload-demo/index.html",
+    "precache-manifest.f2c8af8458756a18c4c31ea81fa68fc5.js": "/react-lazyload-demo/precache-manifest.f2c8af8458756a18c4c31ea81fa68fc5.js",
+    "service-worker.js": "/react-lazyload-demo/service-worker.js",
+    "static/css/main.72acd6e2.chunk.css.map": "/react-lazyload-demo/static/css/main.72acd6e2.chunk.css.map"
+  }
+}
